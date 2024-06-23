@@ -1,0 +1,7 @@
+
+# change file name from dotenv to ".env"
+# Replace `<password>` with your actual MongoDB database password.
+MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.y1sgqw4.mongodb.net/<db_name>
+
+# PORT is the port number on which your server will run.
+PORT=5000
